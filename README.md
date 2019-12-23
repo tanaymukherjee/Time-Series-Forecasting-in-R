@@ -8,3 +8,5 @@ For understanding varities of techniques involved in Forecasting you can furthe 
 https://hbr.org/1971/07/how-to-choose-the-right-forecasting-technique
 
 Ref: https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html
+
+Othe Examples: https://rpubs.com/josezuniga/374293
