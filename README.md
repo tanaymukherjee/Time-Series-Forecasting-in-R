@@ -11,4 +11,6 @@ Ref: https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/tim
 Othe Examples: https://rpubs.com/josezuniga/374293
 
 ## New additon: Advance Time Series Analysis on US gas data
+Here we use, TSstudio package. It provides a set of tools descriptive and predictive analysis of time series data. That includes utility functions for preprocessing time series data, interactive visualization functions based on the plotly package engine, and set of tools for training and evaluating time series forecasting models from the forecast, forecastHybrid, and bsts packages.
 
+The exercise was done on RMarkdown language. The outputs are shared as html and pdf documents in this repository.
